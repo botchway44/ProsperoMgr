@@ -923,6 +923,7 @@
     "notEnoughSpace": "Not enough free space to complete this.",
     "passwordRequired": "This archive is password-protected.",
     "passwordPlaceholder": "Password",
+    "passwordOptional": "Password (only if protected)",
     "unlock": "Unlock",
     "wrongPassword": "Wrong password.",
     "extractTitle": "Extract \"{name}\"",
