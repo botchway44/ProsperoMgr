@@ -924,6 +924,8 @@
     "passwordRequired": "This archive is password-protected.",
     "passwordPlaceholder": "Password",
     "passwordOptional": "Password (only if protected)",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
     "unlock": "Unlock",
     "wrongPassword": "Wrong password.",
     "extractTitle": "Extract \"{name}\"",
